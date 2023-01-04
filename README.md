@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola 👋, Yo soy Alfonso Contreras</h1>
 <h3 align="center">Apasionado por la programación y el aprendizaje</h3>
 
