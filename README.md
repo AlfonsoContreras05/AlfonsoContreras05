@@ -28,6 +28,8 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"></a> 
 </p>
 
+<h3 align="left">Mi portafolio</h3>
+<p>https://idyllic-pastelito-fc2095.netlify.app</p>
 
 
 
